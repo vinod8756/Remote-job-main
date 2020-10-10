@@ -1,0 +1,37 @@
+
+.posts{
+        max-width: 400px;
+        padding: 40px;
+        text-align: center;
+        border: 1px solid #eee;
+        box-shadow: 0 10px 15px #ccc;
+        margin: 50px;
+        box-sizing: border-box;
+        cursor: pointer;
+        font-style: italic;    
+        transform: translateZ(0);
+        display: inline-block;
+        box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+        backface-visibility: hidden;
+        -moz-osx-font-smoothing: grayscale;
+        transition-duration: 0.3s;
+        transition-property: transform;
+         font-style: oblique;
+         justify-content: space-between;
+        
+         
+}
+    
+    
+    .posts:hover,
+    .posts:focus,
+    .posts:active {
+        transform: scale(1.1);
+        background-color: #0f0f0f;
+        color: white;
+        border-radius: 25px;
+        
+    }
+    
+
+

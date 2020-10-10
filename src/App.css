@@ -1,0 +1,128 @@
+/* .App {
+  text-align: center;
+} */
+
+.footer{
+  text-align: center;
+  height: 100px;
+  justify-content: space-between;
+}
+
+.footer1{
+  height: 40px;
+  width: 40px;
+  align-content: center;
+  display: inline-block;
+  vertical-align: middle;
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  margin-top: 70px;
+  align-content: center;
+  margin-bottom: 100px;
+}
+
+
+.footer1:hover,
+.footer1:focus,
+.footer1:active {
+  transform: scale(1.1);
+  background-color: black;
+  color: white;
+  border-color: white;
+  border: 3px solid
+}
+
+
+.footer2{
+  height: 40px;
+  width: 40px;
+  align-content: center;
+  display: inline-block;
+  vertical-align: middle;
+  transform: translateZ(0);
+  box-shadow: 20 10 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  margin-top: 70px;
+  align-content: center;
+  margin-left: 30px;
+  margin-bottom: 100px;
+}
+
+
+.footer2:hover,
+.footer2:focus,
+.footer2:active {
+  transform: scale(1.1);
+  background-color: black;
+  color: white;
+  border-color: white;
+  border: 3px solid;
+
+}
+
+.footer3{
+  height: 40px;
+  width: 40px;
+  align-content: center;
+  display: inline-block;
+  vertical-align: middle;
+  transform: translateZ(0);
+  box-shadow: 20 10 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  margin-top: 70px;
+  align-content: center;
+  margin-left: 30px;
+  margin-bottom: 100px;
+}
+
+
+.footer3:hover,
+.footer3:focus,
+.footer3:active {
+  transform: scale(1.1);
+  background-color: black;
+  color: white;
+  border-color: white;
+  border: 3px solid;
+
+}
+
+.footer4{
+  height: 40px;
+  width: 40px;
+  align-content: center;
+  display: inline-block;
+  vertical-align: middle;
+  transform: translateZ(0);
+  box-shadow: 20 10 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  margin-top: 70px;
+  align-content: center;
+  margin-left: 30px;
+  margin-bottom: 100px;
+}
+
+
+.footer4:hover,
+.footer4:focus,
+.footer4:active {
+  transform: scale(1.1);
+  background-color: black;
+  color: white;
+  border-color: white;
+  border: 3px solid;
+
+}

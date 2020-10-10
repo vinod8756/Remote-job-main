@@ -1,0 +1,8 @@
+.page1{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-flow: row wrap;
+    background-color: white;
+    
+}

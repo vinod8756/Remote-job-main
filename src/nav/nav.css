@@ -1,0 +1,116 @@
+.Nav{
+        justify-content: space-between;
+        align-items: center;
+        color: white;
+        display: flex;
+        min-height: 10vh;
+        width: 100%;
+        background-color: rgb(14, 13, 13);
+}
+
+.nav-link {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    width: 40%;
+    list-style: none;
+    
+
+  }
+  .nav-link1{
+    transform: translateZ(0);
+    display: inline-block;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    font-style: oblique;
+  }
+
+
+.nav-link1:hover,
+.nav-link1:focus,
+.nav-link1:active {
+    transform: scale(1.1);
+}
+
+.nav-link2{
+    transform: translateZ(0);
+    display: inline-block;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    font-style: oblique;
+  }
+
+
+.nav-link2:hover,
+.nav-link2:focus,
+.nav-link2:active {
+    transform: scale(1.1);
+}
+ 
+.nav-link3{
+    transform: translateZ(0);
+    display: inline-block;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    font-style: oblique;
+  }
+
+
+.nav-link3:hover,
+.nav-link3:focus,
+.nav-link3:active {
+    transform: scale(1.1);
+}
+
+.nav-link4{
+    transform: translateZ(0);
+    display: inline-block;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    font-style: oblique;
+  }
+
+
+.nav-link4:hover,
+.nav-link4:focus,
+.nav-link4:active {
+    transform: scale(1.1);
+    text-decoration: underline;
+}
+
+.nav-link5{
+    transform: translateZ(0);
+    display: inline-block;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    font-style: oblique;
+  }
+
+
+.nav-link5:hover,
+.nav-link5:focus,
+.nav-link5:active {
+    transform: scale(1.1);
+}
+ 
+ 
+.tittle {
+    font-style: italic;
+}
+ 
+ 
